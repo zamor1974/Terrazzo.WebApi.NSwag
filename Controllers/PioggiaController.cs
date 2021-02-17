@@ -13,7 +13,7 @@ namespace Terrazzo.WebApi.NSwag.Controllers
         [HttpGet]
         public Int64 Get()
         {
-            return 1255;
+            return 125;
             //var databaseHelper = new DatabaseHelper();
             //var pioggia = databaseHelper.GetPioggiaAdesso();
             //return pioggia.Valore;
